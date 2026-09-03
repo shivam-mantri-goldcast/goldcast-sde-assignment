@@ -1,0 +1,10 @@
+{
+  "RecordType": "Open",
+  "MessageID": "msg-postmark-001",
+  "Recipient": "user@example.com",
+  "ReceivedAt": "2026-01-15T11:02:14+00:00",
+  "ID": "pm-open-001",
+  "Tag": "welcome-campaign",
+  "UserAgent": "Mozilla/5.0",
+  "Platform": "Desktop"
+}

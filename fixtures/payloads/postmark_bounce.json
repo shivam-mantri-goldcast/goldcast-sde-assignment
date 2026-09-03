@@ -1,0 +1,10 @@
+{
+  "RecordType": "Bounce",
+  "MessageID": "msg-postmark-002",
+  "Recipient": "invalid@example.com",
+  "ReceivedAt": "2026-01-15T10:24:05+00:00",
+  "ID": "pm-bounce-002",
+  "Type": "HardBounce",
+  "Tag": "welcome-campaign",
+  "Description": "The server was unable to deliver your message"
+}

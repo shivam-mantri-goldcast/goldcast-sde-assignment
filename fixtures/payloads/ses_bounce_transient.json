@@ -1,0 +1,5 @@
+{
+  "Type": "Notification",
+  "MessageId": "sns-ses-bounce-002",
+  "Message": "{\"eventType\":\"Bounce\",\"mail\":{\"messageId\":\"msg-ses-003\",\"timestamp\":\"2026-01-15T10:25:00.000Z\",\"destination\":[\"user@example.com\"]},\"bounce\":{\"bounceType\":\"Transient\",\"bounceSubType\":\"MailboxFull\",\"feedbackId\":\"ses-bounce-feedback-002\",\"timestamp\":\"2026-01-15T10:25:01.000Z\"}}"
+}

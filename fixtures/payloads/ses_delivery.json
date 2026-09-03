@@ -1,0 +1,5 @@
+{
+  "Type": "Notification",
+  "MessageId": "sns-ses-delivery-001",
+  "Message": "{\"eventType\":\"Delivery\",\"mail\":{\"messageId\":\"msg-ses-001\",\"timestamp\":\"2026-01-15T10:23:41.000Z\",\"destination\":[\"user@example.com\"],\"source\":\"noreply@goldcast.io\"},\"delivery\":{\"timestamp\":\"2026-01-15T10:23:42.000Z\",\"recipients\":[\"user@example.com\"],\"smtpResponse\":\"250 2.0.0 OK\"}}"
+}
